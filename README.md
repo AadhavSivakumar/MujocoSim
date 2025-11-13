@@ -20,7 +20,7 @@ https://www.reddit.com/r/learnpython/wiki/index/
 
 ### Environment Setup
 
-#### These are all ways to run ipynb files/jupyter notebooks
+#### These are all the tested ways to run ipynb files/jupyter notebooks
 
 https://www.jetbrains.com/pycharm/
 
