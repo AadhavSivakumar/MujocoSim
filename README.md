@@ -32,3 +32,6 @@ https://code.visualstudio.com/
 
 https://www.anaconda.com/
 
+#### Jupyter notebook in vscode setup
+
+https://www.youtube.com/watch?v=suAkMeWJ1yE
