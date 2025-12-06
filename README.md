@@ -1,12 +1,18 @@
 # Foundations Of Robotics Project Resources
 
-### Google tutorial: 
+### Environment Setup
 
-https://colab.research.google.com/github/google-deepmind/mujoco/blob/main/python/tutorial.ipynb
+#### Jupyter notebook in vscode
 
-### Mujoco Documentation:
+https://www.youtube.com/watch?v=suAkMeWJ1yE
 
-https://mujoco.readthedocs.io/en/stable/overview.html
+#### These are all the tested ways to run ipynb files/jupyter notebooks
+
+https://www.jetbrains.com/pycharm/
+
+https://code.visualstudio.com/
+
+https://www.anaconda.com/
 
 ### Learn Python:
 
@@ -22,13 +28,10 @@ https://leetcode.com/problemset/?language=Python
 
 https://www.reddit.com/r/learnpython/wiki/index/
 
-### Environment Setup
+### Google Mujoco tutorial (For in depth Mujoco use): 
 
-#### These are all the tested ways to run ipynb files/jupyter notebooks
+https://colab.research.google.com/github/google-deepmind/mujoco/blob/main/python/tutorial.ipynb
 
-https://www.jetbrains.com/pycharm/
+### Mujoco Documentation:
 
-https://code.visualstudio.com/
-
-https://www.anaconda.com/
-
+https://mujoco.readthedocs.io/en/stable/overview.html
